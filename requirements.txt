@@ -2,4 +2,4 @@ flask
 requests
 markupsafe
 gunicorn
-mysql.connector
+mysql-connector-python
